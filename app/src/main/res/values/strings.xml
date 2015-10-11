@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyRadio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Rock">http://online-radioroks.tavrmedia.ua/RadioROKS</string>
+    <string name="HitFm">Settings</string>
+    <string name="Europaplus">Settings</string>
+    <string name="Radiorecord">Settings</string>
+
+
+</resources>
